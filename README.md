@@ -8,11 +8,7 @@
 
 ## Prerequisites
 - Node.js >= 6.x (Recommended the latest version)
-- Expo 
-  - [Install QR Code](https://snack.expo.io/BJ-uC-nrb) 
-  
-  ![expo_qrcode.png](expo_qrcode.png)
-  - App Store: [iOS](https://itunes.apple.com/app/apple-store/id982107779) | [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) | [Read More](https://expo.io/learn)
+- Expo [iOS](https://itunes.apple.com/app/apple-store/id982107779) | [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) | [Read More](https://expo.io/learn)
 
 
 ## Install
@@ -25,6 +21,7 @@ npm install
 npm start
 ```
 >1. Install Expo Client on your device 
+>1. `npm start`
 >1. And then scan QR Code.
 
 ## 🌏 Supported Browser
